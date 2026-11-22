@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Sc IA Link</name>
+    <directory>scia_link</directory>
+    <id/>
+    <description>Minimal mod for AI state extraction.</description>
+    <version>0.1</version>
+    <visibility>Private</visibility>
+</metadata>
